@@ -137,6 +137,9 @@ acs-*.bib
 # listings
 *.lol
 
+# luatexja-ruby
+*.ltjruby
+
 # makeidx
 *.idx
 *.ilg
@@ -204,6 +207,10 @@ pythontex-files-*/
 
 # todonotes
 *.tdo
+
+# vhistory
+*.hst
+*.ver
 
 # easy-todo
 *.lod
